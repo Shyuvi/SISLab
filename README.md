@@ -17,14 +17,14 @@
 - Data loading functions
 - AI model and layer creation and building
 - System parallel processing capabilities
-- 
+
 (KR)
 - 신호 처리 유틸리티
 - 영상 처리 도구
 - 데이터 로드 기능
 - 인공지능 모델 및 레이어 생성과 구축
 - 시스템 병렬 처리 기능
-- 
+
 ## Installation
 
 (EN)To install the SISLab library, you can use pip:
