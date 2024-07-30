@@ -31,7 +31,7 @@ We welcome contributions from the community. To contribute to SISLab, please fol
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Contact
-For any questions or suggestions, please contact Jun Seok Seo (서준석) at sjslife97@naver.com or +82 10-2231-2497.
+For any questions or suggestions, please contact Jun (서준석) at sjslife97@naver.com or +82 10-2231-2497.
 
 
 이 README.md 파일은 프로젝트의 목적과 기능을 명확히 설명하고 있으며, 설치 방법과 기본 사용 예제를 포함하고 있습니다. 라이선스와 기여 방법도 명시되어 있어, 프로젝트에 대한 기본적인 정보를 제공하는 데 충분합니다. 필요에 따라 이후에 더 구체적인 사용 예제나 추가 정보를 업데이트할 수 있습니다.
